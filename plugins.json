@@ -21,5 +21,16 @@
     		"displayName": "exemple",
     		"description": "",
     		"provider": "this"
- 	}
+ 	},
+	{
+		"internalName": "vorkathoverlay",
+		"hash": "9ed65fa503c49f04cfef7f8e97e5b304cae328ad7a3c7c230dcdea793bfd91f5",
+		"size": 23791,
+		"plugins": [
+			"com.theplug.kotori.vorkathoverlay.VorkathPlugin"
+		],
+		"displayName": "vorkath overlay",
+		"description": "",
+		"provider": "this"
+	}
 ]
