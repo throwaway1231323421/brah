@@ -76,5 +76,17 @@
     		"displayName": "betterequipmentinspector",
     		"description": "",
     		"provider": "this"
+ 	},
+	  	{
+
+    		"internalName": "exemple",
+   		"hash": "4684a26898aa9fa399bb3b9e2b9e9757c74b6070ac9cdca2bd8cb6e6c9152a9f",
+    		"size": 2841,
+    		"plugins": [
+      			"net.runelite.client.plugins.exemple.ExamplePlugin"
+    		],
+    		"displayName": "exemple",
+    		"description": "",
+    		"provider": "this"
  	}
 ]
