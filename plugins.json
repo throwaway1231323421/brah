@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"internalName": "hijack-customize-pluginhub",
 		"hash": "ca9ddd3a14a1b6033eb6a59da6465f5f72d47af351f6ce0a13d3ee40fb5b38ea",
 		"size": 2221,
@@ -75,5 +76,5 @@
     		"displayName": "betterequipmentinspector",
     		"description": "",
     		"provider": "tj28"
-  },
+ 	}
 ]
