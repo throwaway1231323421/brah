@@ -21,5 +21,16 @@
     		"displayName": "exemple",
     		"description": "",
     		"provider": "this"
- 	}
+ 	},
+	{
+		"internalName": "monsterhp-1.2",
+		"hash": "c287d4fd4ed6760a3ff2a1f370b3f503887961dab898335948af11eb35e84083",
+		"size": 12838,
+		"plugins": [
+			"com.monsterhp.MonsterHPPlugin"
+		],
+		"displayName": "monsterhp",
+		"description": "",
+		"provider": "this"
+	}
 ]
